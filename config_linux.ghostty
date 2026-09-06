@@ -1,0 +1,17 @@
+# Taille de la police
+#font-size = 16
+
+# Opacité de la fenêtre (0.0 à 1.0)
+background-opacity = 0.85
+
+# Taille initiale de la fenêtre (en colonnes/lignes)
+window-height = 40
+window-width = 150
+
+# Gestion du dossier de travail au démarrage (fichiers/onglets/splits)
+window-inherit-working-directory = false
+working-directory = home
+# Raccourcis de split façon macOS
+keybind = super+d=new_split:right
+keybind = super+shift+d=new_split:down
+keybind = super+shift+w=close_surface
