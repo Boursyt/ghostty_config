@@ -1,0 +1,8 @@
+font-size = 18
+background-opacity = 0.85
+window-width = 150
+window-height = 40
+window-inherit-working-directory = false
+tab-inherit-working-directory = false
+split-inherit-working-directory = false
+#macos-icon = holographic
