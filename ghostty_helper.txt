@@ -1,0 +1,8 @@
+Common Split and Tab Shortcuts
+- Split Right: Command + D (Mac)
+- Down: Command + Shift + D (Mac)
+- New Tab: Command + T (Mac)
+- Close Split/Surface: Command + W
+- switch between panes: cmd + opt + arrow
+- panes full screen/minimize: cmd + shift + enter
+- Equalising panes = cmd + ctrl + =
